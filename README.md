@@ -102,3 +102,7 @@ P = P_max * O
 - Neural delay model
 - Blood flow simulation
 - Internal organ damage system
+
+## Code
+
+See implementation in `bio_simulation.py`

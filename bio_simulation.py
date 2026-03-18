@@ -68,6 +68,7 @@ plt.legend()
 plt.title("Bio Simulation: Oxygen & Performance")
 plt.xlabel("Time")
 plt.ylabel("Level")
+plt.savefig("demo.png")
 plt.show()
 
 print("Total unintended actions:", error_count)
